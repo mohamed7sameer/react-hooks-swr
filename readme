@@ -1,0 +1,12 @@
+
+
+
+json-server --watch db/todos.json --port 4000
+
+"serve" : "json-server --watch db/todos.json --port 4000"
+
+
+
+{trigger()}  ==new==> mutate()
+
+"serve" : "json-server --watch db/todos.json --port 4000 -d 2000"
